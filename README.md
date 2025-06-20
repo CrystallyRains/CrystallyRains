@@ -13,7 +13,7 @@
 ## 🌩️ My Cloud Mission  
 
 🚀 Designing scalable, resilient cloud architectures  
-🛠️ Automating everything — IaC, CI/CD, serverless apps  
+🛠️ Automating everything - IaC, CI/CD, serverless apps  
 📚 Learning continuously + sharing through blogs & projects  
 🌱 Exploring Kubernetes, CDK patterns, cloud security  
 
@@ -45,9 +45,9 @@
 
 ## 📌 Featured Projects  
 
-- 🚀 **Three-Tier Web App on AWS** — EC2 + RDS + S3 scalable stack  
-- 🔒 **Threat Detection with SageMaker** — ML pipeline for cyber threats  
-- 📄 **PDFGenie** — Serverless PDF generator with Lambda + S3  
+- 🚀 **Three-Tier Web App on AWS** - EC2 + RDS + S3 scalable stack  
+- 🔒 **Threat Detection with SageMaker** - ML pipeline for cyber threats  
+- 📄 **PDFGenie** - Serverless PDF generator with Lambda + S3  
 
 ---
 
