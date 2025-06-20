@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Snigdha%20Chaudhari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS%20%7C%20DevOps%20%7C%20Cloud%20Engineer%20%7C%20Always%20Creating&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Technical+Curriculum+Developer;AWS+%7C+DevOps+Engineer;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Technical+Curriculum+Developer;AWS+%7C+DevOps+Engineer;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=crystallyrains&label=Profile%20Views&color=FFFFFF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=crystallyrains&label=Profile%20Views&color=FF9900&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -17,7 +17,7 @@
 <td width="50%">
 
 💻 **Technical Curriculum Developer @ Zero to Cloud**  
-🎓 **Computer Engineering Student**  
+🎓 **Computer Engineering Graduate**  
 📍 **India 🇮🇳**  
 
 💡 **Skills:**  
@@ -54,14 +54,14 @@
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-000000?style=for-the-badge&logo=aws-cloudformation&logoColor=white)
-![CDK](https://img.shields.io/badge/AWS%20CDK-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-DD3444?style=for-the-badge&logo=aws-cloudformation&logoColor=white)
+![CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
@@ -92,9 +92,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snigdha-chaudhari/)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://snigdhachaudhari.hashnode.dev/)  
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snigdhachaudhari1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snigdha-chaudhari/)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://snigdhachaudhari.hashnode.dev/)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snigdhachaudhari1@gmail.com)
 
 </div>
 
