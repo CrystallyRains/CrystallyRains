@@ -1,100 +1,82 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Snigdha%20Chaudhari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS%20%7C%20DevOps%20%7C%20Cloud%20Engineer%20%7C%20Always%20Creating&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=200&section=header&text=Snigdha%20Chaudhari%20☁️&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20AWS%20%7C%20Always%20Creating&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Technical+Curriculum+Developer;AWS+%7C+DevOps+Engineer;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8FAADC&center=true&vCenter=true&width=600&lines=Technical+Curriculum+Developer;AWS+%7C+DevOps+Engineer;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=crystallyrains&label=Profile%20Views&color=FF9900&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=crystallyrains&label=Profile%20Views&color=8FAADC&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌩️ My Cloud Mission  
 
-<table>
-<tr>
-<td width="50%">
+🚀 Designing scalable, resilient cloud architectures  
+🛠️ Automating everything — IaC, CI/CD, serverless apps  
+📚 Learning continuously + sharing through blogs & projects  
+🌱 Exploring Kubernetes, CDK patterns, cloud security  
 
-💻 **Technical Curriculum Developer @ Zero to Cloud**  
-🎓 **Computer Engineering Graduate**  
-📍 **India 🇮🇳**  
+---
 
-💡 **Skills:**  
-- AWS (EC2, S3, Lambda, API Gateway, RDS, DynamoDB, SageMaker)  
-- Terraform, CloudFormation, CDK  
-- Docker, GitHub Actions, CodePipeline  
-- Python, Node.js, Bash  
+## 🏅 Cloud Credentials  
 
-📝 **Motto:** Always learning, always creating  
+- 🟠 AWS Certified Cloud Practitioner  
+- 🟠 AWS Solutions Architect Associate  
+- 🔵 Microsoft Azure Fundamentals (AZ-900)  
 
-</td>
-<td width="50%">
+---
+
+## 🛠️ Tech Stack  
 
 <div align="center">
 
-### 💡 What I Build  
-🌩️ Cloud Solutions — AWS architectures, serverless apps  
-🛠️ DevOps & IaC — Terraform, CDK, CI/CD pipelines  
-📚 Learning Paths — Hands-on cloud & DevOps content  
-✍️ Sharing Knowledge — Blogs, tutorials, projects  
-
-### 🌱 Currently Exploring  
-`Kubernetes` `AWS CDK Advanced Patterns` `Cloud Security Best Practices`
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-DD3444?style=for-the-badge&logo=aws-cloudformation&logoColor=white)
-![CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-383838?style=for-the-badge&logo=terraform&logoColor=623CE4)
+![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-383838?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-383838?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![Python](https://img.shields.io/badge/Python-383838?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-383838?style=for-the-badge&logo=node.js&logoColor=339933)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
-- 🚀 **Deploy a Three-Tier Web App on AWS** — Scalable web app on EC2, RDS, S3  
-- 🔒 **Cybersecurity Threat Detection with SageMaker** — ML pipeline for threat detection  
+- 🚀 **Three-Tier Web App on AWS** — EC2 + RDS + S3 scalable stack  
+- 🔒 **Threat Detection with SageMaker** — ML pipeline for cyber threats  
 - 📄 **PDFGenie** — Serverless PDF generator with Lambda + S3  
 
 ---
 
-## 📈 Stats
+## 📈 Stats  
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crystallyrains&show_icons=true&theme=dark&hide_border=true" />  
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crystallyrains&theme=dark&hide_border=true" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystallyrains&layout=compact&theme=dark&hide_border=true" />  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crystallyrains&show_icons=true&theme=github_dark&hide_border=true" />  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crystallyrains&theme=github-dark&hide_border=true" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystallyrains&layout=compact&theme=github_dark&hide_border=true" />  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crystallyrains&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snigdha-chaudhari/)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://snigdhachaudhari.hashnode.dev/)  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snigdhachaudhari1@gmail.com)
+<a href="https://www.linkedin.com/in/snigdha-chaudhari/">
+  <img src="https://img.shields.io/badge/LinkedIn-383838?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://snigdhachaudhari.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-383838?style=for-the-badge&logo=hashnode&logoColor=2962FF" />
+</a>
+<a href="mailto:snigdhachaudhari1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-383838?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 </div>
 
@@ -102,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-dark" />  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=120&section=footer" />
 
 </div>
