@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=200&section=header&text=Snigdha%20Chaudhari%20☁️&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20AWS%20%7C%20Always%20Creating&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8FAADC&center=true&vCenter=true&width=600&lines=Cloud+Engineer;AWS+%7C+Cloud+Engineer;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8FAADC&center=true&vCenter=true&width=600&lines=Cloud+Engineer;AWS+%2C+Community+Builder;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=crystallyrains&label=Profile%20Views&color=8FAADC&style=flat-square" alt="Profile Views" />
 
