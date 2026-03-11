@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=200&section=header&text=Snigdha%20Chaudhari%20☁️&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20AWS%20%7C%20Always%20Creating&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8FAADC&center=true&vCenter=true&width=600&lines=Developer+Advocate;AWS+%7C+DevOps+Engineer;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=8FAADC&center=true&vCenter=true&width=600&lines=Cloud+Engineer;AWS+%7C+AWS+Engineer;Serverless%2C+IaC%2C+CI%2FCD;Building+Cloud+Automation)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=crystallyrains&label=Profile%20Views&color=8FAADC&style=flat-square" alt="Profile Views" />
 
@@ -34,7 +34,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-383838?style=for-the-badge&logo=terraform&logoColor=623CE4)
-![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-383838?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-383838?style=for-the-badge&logo=github-actions&logoColor=2088FF)
 ![Python](https://img.shields.io/badge/Python-383838?style=for-the-badge&logo=python&logoColor=3776AB)
