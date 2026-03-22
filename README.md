@@ -9,18 +9,18 @@
 ---
 
 ## 🌩️ My Cloud Mission
-🚀 Designing scalable, resilient cloud architectures  
-🛠️ Automating everything — IaC, CI/CD, serverless apps  
-📚 Building and documenting real-world AWS projects for 5000+ learners at ZeroToCloud  
-🌱 AWS Community Builder — Containers category  
+- Designing scalable, resilient cloud architectures  
+- Automating everything - IaC, CI/CD, serverless apps  
+- Building and documenting real-world AWS projects for 5000+ learners at ZeroToCloud  
+- AWS Community Builder - Containers category  
 
 ---
 
 ## 🏅 Cloud Credentials
-- 🟠 AWS Certified Solutions Architect Associate
-- 🟠 AWS Certified AI Practitioner
-- 🟠 AWS Certified Cloud Practitioner
-- 🔵 Microsoft Azure Fundamentals (AZ-900)
+  🟠 AWS Certified Solutions Architect Associate
+  🟠 AWS Certified AI Practitioner
+  🟠 AWS Certified Cloud Practitioner
+  🔵 Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
@@ -40,9 +40,9 @@
 
 ## 📌 Featured Projects
 
-- 🚀 **[Imagify — Containerized AI SaaS Deployment on AWS](https://github.com/CrystallyRains/imagify-tf-ecs)** — Dockerized a Next.js app with 96% image size reduction, deployed on ECS Fargate using Terraform and GitHub Actions CI/CD
-- 🤖 **Serverless AI Cloud Tutor** — 24/7 AI assistant built with Lambda, API Gateway, DynamoDB, Secrets Manager and Gemini API, hosted on AWS Amplify
-- 🏥 **[HealthKey — AI Emergency Medical Access](https://github.com/CrystallyRains/health-guard-bridge)** — Hackathon project built for AI for Bharat 2026, using Textract, Translate, Bedrock and DynamoDB
+- 🚀 **[Imagify - Containerized AI SaaS Deployment on AWS](https://github.com/CrystallyRains/imagify-tf-ecs)** - Dockerized a Next.js app with 96% image size reduction, deployed on ECS Fargate using Terraform and GitHub Actions CI/CD
+- 🤖 **Serverless AI Cloud Tutor** - 24/7 AI assistant built with Lambda, API Gateway, DynamoDB, Secrets Manager and Gemini API, hosted on AWS Amplify
+- 🏥 **[HealthKey - AI Emergency Medical Access](https://github.com/CrystallyRains/health-guard-bridge)** - Hackathon project built for AI for Bharat 2026, using Textract, Translate, Bedrock and DynamoDB
 
 ---
 
