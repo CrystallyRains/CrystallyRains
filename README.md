@@ -17,10 +17,10 @@
 ---
 
 ## 🏅 Cloud Credentials
-  🟠 AWS Certified Solutions Architect Associate
-  🟠 AWS Certified AI Practitioner
-  🟠 AWS Certified Cloud Practitioner
-  🔵 Microsoft Azure Fundamentals (AZ-900)
+- 🟠 AWS Certified Solutions Architect Associate
+- 🟠 AWS Certified AI Practitioner
+- 🟠 AWS Certified Cloud Practitioner
+- 🔵 Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
